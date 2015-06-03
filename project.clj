@@ -37,7 +37,7 @@
   :figwheel {
              :http-server-root "" ;; default and assumes "resources" 
              ;; :server-port 3449 ;; default
-             :css-dirs ["resources/public/css"] ;; watch and update CSS
+             :css-dirs ["resources/css"] ;; watch and update CSS
 
              ;; Start an nREPL server into the running figwheel process
              ;; :nrepl-port 7888
